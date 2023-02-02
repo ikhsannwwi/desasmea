@@ -20,6 +20,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',[landingController::class, 'index'])->name('index');
 Route::get('/tampilan',[landingController::class, 'index'])->name('index');
+Route::get('/tampilan/profile',[landingController::class, 'profile'])->name('profile');
 Route::get('/tampilan/infografis',[landingController::class, 'infografis'])->name('infografis');
 Route::get('/tampilan/layanan',[landingController::class, 'layanan'])->name('layanan');
 Route::get('/tampilan/struktur',[landingController::class, 'struktur'])->name('struktur');

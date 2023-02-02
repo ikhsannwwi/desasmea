@@ -15,7 +15,7 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 pt-5">
-                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Let's Change The World With Humanity</h1>
+                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Bersama SMK mari membangun DESA</h1>
                                     <p class="fs-5 text-white-50 mb-5 animated slideInDown">Aliqu diam amet diam et eos. Clita erat ipsum et lorem sed stet lorem sit clita duo justo erat amet</p>
                                     <a class="btn btn-primary py-2 px-3 animated slideInDown" href="">
                                         Learn More

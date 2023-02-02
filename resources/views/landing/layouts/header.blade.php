@@ -102,8 +102,8 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
-                    <h1 class="fw-bold text-primary mb-4">Chari<span class="text-white">Team</span></h1>
-                    <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
+                    <h1 class="fw-bold text-primary mb-4">Desa<span class="text-white">Smea</span></h1>
+                    <p>JALAN CIMANUK NO 309 A Kecamatan Tarogong Kidul Kabupaten Garut Provinsi Jawa Barat</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -113,9 +113,9 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>Jalan Cimanuk no 309 A</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>+62 8456 7890</p>
+                    <p><i class="fa fa-envelope me-3"></i>ikhsannawawi99@gmail.com</p>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>
@@ -126,7 +126,7 @@
                     <a class="btn btn-link" href="">Support</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h5 class="text-light mb-4">Newsletter</h5>
+                    <h5 class="text-light mb-4">Information</h5>
                     <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
@@ -139,11 +139,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a href="#">Mochammad Ikhsan Nawawi</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By <a href="https://htmlcodex.com">HTML Codex</a>
+                        Designed By <a href="https://ikhsannawawi.id">Mochammad Ikhsan Nawawi</a>
                     </div>
                 </div>
             </div>
