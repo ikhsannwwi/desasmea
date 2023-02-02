@@ -33,4 +33,10 @@ class landingController extends Controller
     public function pegawai(){
         return view('landing.pegawai');
     }
+    public function panduan(){
+        return view('landing.panduan');
+    }
+    public function cek_pengajuan_surat(){
+        return view('landing.cek-pengajuan-surat');
+    }
 }
