@@ -1,5 +1,15 @@
 @extends('landing.layouts.header')
+{{--------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+-                                                                                                                                                              -
+    
+-                                                                 Mochammad Ikhsan Nawawi                                                                      -
 
+-                                                        instagram : https://instagram.com/sanbray_                                                            -
+
+-                                                                                                                                                              -
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------}}
 @section('title')
     Laman
 @endsection
@@ -75,7 +85,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
-                        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">About Us</div>
+                        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Sekilas Tentang DesaSmea</div>
                         <h1 class="display-6 mb-5">We Help People In Need Around The World</h1>
                         <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
                             <p class="text-dark mb-2">Aliqu diam amet diam et eos. Clita erat ipsum et lorem sed stet lorem sit clita duo justo erat amet</p>
@@ -100,6 +110,300 @@
         </div>
     </div>
     <!-- About End -->
+{{--------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+-                                                                                                                                                              -
+    
+-                                                                 Mochammad Ikhsan Nawawi                                                                      -
+
+-                                                        instagram : https://instagram.com/sanbray_                                                            -
+
+-                                                                                                                                                              -
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------}}
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Aparatur Desa</div>
+                <h1 class="display-6 mb-5">Sinergitas Kami</h1>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-1.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-2.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-3.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-4.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+
+
+{{--------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+-                                                                                                                                                              -
+    
+-                                                                 Mochammad Ikhsan Nawawi                                                                      -
+
+-                                                        instagram : https://instagram.com/sanbray_                                                            -
+
+-                                                                                                                                                              -
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------}}
+
+
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Infografis</div>
+                <h1 class="display-6 mb-5">Learn More What We Do And Get Involved</h1>
+            </div>
+            <div class="row g-4 justify-content-center">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
+                        <img class="img-fluid mb-4" src="{{asset('landing/img/icon-1.png')}}" alt="">
+                        <h4 class="mb-3">Child Education</h4>
+                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
+                        <a class="btn btn-outline-primary px-3" href="">
+                            Learn More
+                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
+                                <i class="fa fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
+                        <img class="img-fluid mb-4" src="{{asset('landing/img/icon-2.png')}}" alt="">
+                        <h4 class="mb-3">Medical Treatment</h4>
+                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
+                        <a class="btn btn-outline-primary px-3" href="">
+                            Learn More
+                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
+                                <i class="fa fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
+                        <img class="img-fluid mb-4" src="{{asset('landing/img/icon-3.png')}}" alt="">
+                        <h4 class="mb-3">Pure Drinking Water</h4>
+                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
+                        <a class="btn btn-outline-primary px-3" href="">
+                            Learn More
+                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
+                                <i class="fa fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+
+
+    <!-- Donate Start -->
+    <div class="container-fluid donate my-5 py-5" data-parallax="scroll" data-image-src="{{asset('landing/img/carousel-2.jpg')}}">
+        <div class="container py-5">
+            <div class="row g-5 align-items-center">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Geografis</div>
+                    <h1 class="display-6 text-white mb-5">Thanks For The Results Achieved With You</h1>
+                    <p class="text-white-50 mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="h-100 bg-white p-5">
+                        <div class="col-12 wow fadeIn" data-wow-delay="0.5s" style="min-height: 450px;">
+                            <div class="position-relative rounded overflow-hidden h-100">
+                                <iframe class="position-relative w-100 h-100"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                                frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false"
+                                tabindex="0"></iframe>
+                            </div>
+                        </div>
+                        {{-- <form>
+                            <div class="row g-3">
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control bg-light border-0" id="name" placeholder="Your Name">
+                                        <label for="name">Your Name</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control bg-light border-0" id="email" placeholder="Your Email">
+                                        <label for="email">Your Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="btn-group d-flex justify-content-around">
+                                        <input type="radio" class="btn-check" name="btnradio" id="btnradio1" checked>
+                                        <label class="btn btn-light py-3" for="btnradio1">$10</label>
+
+                                        <input type="radio" class="btn-check" name="btnradio" id="btnradio2">
+                                        <label class="btn btn-light py-3" for="btnradio2">$20</label>
+
+                                        <input type="radio" class="btn-check" name="btnradio" id="btnradio3">
+                                        <label class="btn btn-light py-3" for="btnradio3">$30</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary px-5" style="height: 60px;">
+                                        Donate Now
+                                        <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+                                            <i class="fa fa-arrow-right"></i>
+                                        </div>
+                                    </button>
+                                </div>
+                            </div>
+                        </form> --}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Donate End -->
+
+
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Aparatur Desa</div>
+                <h1 class="display-6 mb-5">Sinergitas Kami</h1>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-1.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-2.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-3.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="{{asset('landing/img/team-4.jpg')}}" alt="">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Full Name</h5>
+                            <p class="text-primary">Designation</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
 
 
     <!-- Causes Start -->
@@ -215,192 +519,6 @@
     <!-- Causes End -->
 
 
-    <!-- Service Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">What We Do</div>
-                <h1 class="display-6 mb-5">Learn More What We Do And Get Involved</h1>
-            </div>
-            <div class="row g-4 justify-content-center">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="{{asset('landing/img/icon-1.png')}}" alt="">
-                        <h4 class="mb-3">Child Education</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
-                            Learn More
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="{{asset('landing/img/icon-2.png')}}" alt="">
-                        <h4 class="mb-3">Medical Treatment</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
-                            Learn More
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="{{asset('landing/img/icon-3.png')}}" alt="">
-                        <h4 class="mb-3">Pure Drinking Water</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
-                            Learn More
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Service End -->
-
-
-    <!-- Donate Start -->
-    <div class="container-fluid donate my-5 py-5" data-parallax="scroll" data-image-src="{{asset('landing/img/carousel-2.jpg')}}">
-        <div class="container py-5">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Donate Now</div>
-                    <h1 class="display-6 text-white mb-5">Thanks For The Results Achieved With You</h1>
-                    <p class="text-white-50 mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="h-100 bg-white p-5">
-                        <form>
-                            <div class="row g-3">
-                                <div class="col-12">
-                                    <div class="form-floating">
-                                        <input type="text" class="form-control bg-light border-0" id="name" placeholder="Your Name">
-                                        <label for="name">Your Name</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-floating">
-                                        <input type="email" class="form-control bg-light border-0" id="email" placeholder="Your Email">
-                                        <label for="email">Your Email</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="btn-group d-flex justify-content-around">
-                                        <input type="radio" class="btn-check" name="btnradio" id="btnradio1" checked>
-                                        <label class="btn btn-light py-3" for="btnradio1">$10</label>
-
-                                        <input type="radio" class="btn-check" name="btnradio" id="btnradio2">
-                                        <label class="btn btn-light py-3" for="btnradio2">$20</label>
-
-                                        <input type="radio" class="btn-check" name="btnradio" id="btnradio3">
-                                        <label class="btn btn-light py-3" for="btnradio3">$30</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <button class="btn btn-primary px-5" style="height: 60px;">
-                                        Donate Now
-                                        <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
-                                            <i class="fa fa-arrow-right"></i>
-                                        </div>
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Donate End -->
-
-
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Team Members</div>
-                <h1 class="display-6 mb-5">Let's Meet With Our Ordinary Soldiers</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item position-relative rounded overflow-hidden">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="{{asset('landing/img/team-1.jpg')}}" alt="">
-                        </div>
-                        <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item position-relative rounded overflow-hidden">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="{{asset('landing/img/team-2.jpg')}}" alt="">
-                        </div>
-                        <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item position-relative rounded overflow-hidden">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="{{asset('landing/img/team-3.jpg')}}" alt="">
-                        </div>
-                        <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="team-item position-relative rounded overflow-hidden">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="{{asset('landing/img/team-4.jpg')}}" alt="">
-                        </div>
-                        <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
-
     <!-- Testimonial Start -->
     <div class="container-xxl py-5">
         <div class="container">
@@ -438,3 +556,17 @@
     </div>
     <!-- Testimonial End -->
 @endsection
+
+
+{{--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-                                                                                                                                                              -
+    
+-                                                                 Mochammad Ikhsan Nawawi                                                                      -
+
+-                                                        instagram : https://instagram.com/sanbray_                                                            -
+
+-                                                                                                                                                              -
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------}}
+
